@@ -1,0 +1,516 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 25.12.2019 13:39:07
+
+newmtl TV_frameVRayCompleteMap
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka maps\TV_frameVRayCompleteMap.jpg
+	map_Kd maps\TV_frameVRayCompleteMap.jpg
+
+newmtl 02___Default
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka maps\Model_001VRayCompleteMap.jpg
+	map_Kd maps\Model_001VRayCompleteMap.jpg
+
+newmtl frame_poster_003VRayCompleteMap
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka maps\frame_poster_003VRayCompleteMap.jpg
+	map_Kd maps\frame_poster_003VRayCompleteMap.jpg
+
+newmtl grid_lineVRayCompleteMap
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka maps\grid_lineVRayCompleteMap.jpg
+	map_Kd maps\grid_lineVRayCompleteMap.jpg
+
+newmtl Rectangle4878VRayCompleteMap
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka maps\Rectangle4878VRayCompleteMap.jpg
+	map_Kd maps\Rectangle4878VRayCompleteMap.jpg
+
+newmtl 17___eqeq
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka maps\RoofVRayCompleteMap.jpg
+	map_Kd maps\RoofVRayCompleteMap.jpg
+
+newmtl model_002VRayCompleteMap
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka maps\model_002VRayCompleteMap.jpg
+	map_Kd maps\model_002VRayCompleteMap.jpg
+
+newmtl headerVRayCompleteMap
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.588000 0.588000 0.588000
+	map_Ka maps\headerVRayCompleteMap.jpg
+	map_Kd maps\headerVRayCompleteMap.jpg
+
+newmtl posterVRayCompleteMap
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.588000 0.588000 0.588000
+	map_Ka maps\posterVRayCompleteMap.jpg
+	map_Kd maps\posterVRayCompleteMap.jpg
+
+newmtl frame_poster_001VRayCompleteMap
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka maps\frame_poster_001VRayCompleteMap.jpg
+	map_Kd maps\frame_poster_001VRayCompleteMap.jpg
+
+newmtl screenVRayCompleteMap
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.588000 0.588000 0.588000
+	map_Ka maps\screenVRayCompleteMap.jpg
+	map_Kd maps\screenVRayCompleteMap.jpg
+
+newmtl wire_000000000
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.000000 0.000000 0.000000
+	Kd 0.000000 0.000000 0.000000
+	Ks 0.350000 0.350000 0.350000
+
+newmtl Shape005VRayCompleteMap
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka maps\Shape005VRayCompleteMap.jpg
+	map_Kd maps\Shape005VRayCompleteMap.jpg
+
+newmtl shelvingVRayCompleteMap
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka maps\shelvingVRayCompleteMap.jpg
+	map_Kd maps\shelvingVRayCompleteMap.jpg
+
+newmtl Object164VRayCompleteMap
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka maps\Object164VRayCompleteMap.jpg
+	map_Kd maps\Object164VRayCompleteMap.jpg
+
+newmtl 16___Default
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka maps\LAMP_BAS01VRayCompleteMap.jpg
+	map_Kd maps\LAMP_BAS01VRayCompleteMap.jpg
+
+newmtl 15___Glossy_Plastic
+	Ns 10.000000
+	Ni 1.500000
+	d 0.500000
+	Tr 0.500000
+	Tf 0.500000 0.500000 0.500000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka maps\Cone1857VRayCompleteMap.jpg
+	map_Kd maps\Cone1857VRayCompleteMap.jpg
+
+newmtl Line001VRayCompleteMap
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka maps\Line001VRayCompleteMap.jpg
+	map_Kd maps\Line001VRayCompleteMap.jpg
+
+newmtl Cylinder15647VRayCompleteMap
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka maps\Cylinder15647VRayCompleteMap.jpg
+	map_Kd maps\Cylinder15647VRayCompleteMap.jpg
+
+newmtl 18___Default
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka maps\Line003VRayCompleteMap.jpg
+	map_Kd maps\Line003VRayCompleteMap.jpg
+
+newmtl Solid_Glass
+	Ns 10.000000
+	Ni 1.500000
+	d 0.200000
+	Tr 0.800000
+	Tf 0.200000 0.200000 0.200000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka maps\Line005VRayCompleteMap.jpg
+	map_Kd maps\Line005VRayCompleteMap.jpg
+
+newmtl Shape1VRayCompleteMap
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka maps\Shape1VRayCompleteMap.jpg
+	map_Kd maps\Shape1VRayCompleteMap.jpg
+
+newmtl chair_legs007VRayCompleteMap
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka maps\chair_legs007VRayCompleteMap.jpg
+	map_Kd maps\chair_legs007VRayCompleteMap.jpg
+
+newmtl ChamferBox005VRayCompleteMap
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka maps\ChamferBox007VRayCompleteMap.jpg
+	map_Kd maps\ChamferBox007VRayCompleteMap.jpg
+
+newmtl ChamferBox005VRayCompleteMap_
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka maps\ChamferBox005VRayCompleteMap.jpg
+	map_Kd maps\ChamferBox005VRayCompleteMap.jpg
+
+newmtl ChamferBox002VRayCompleteMap
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka maps\ChamferBox002VRayCompleteMap.jpg
+	map_Kd maps\ChamferBox002VRayCompleteMap.jpg
+
+newmtl coffee_table_legs001VRayCompleteMap
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka maps\coffee table legs001VRayCompleteMap.jpg
+	map_Kd maps\coffee table legs001VRayCompleteMap.jpg
+
+newmtl 04___Default
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka maps\coffee tableVRayCompleteMap.jpg
+	map_Kd maps\coffee tableVRayCompleteMap.jpg
+
+newmtl 12___Car_Paint
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka maps\Rectangle4880VRayCompleteMap.jpg
+	map_Kd maps\Rectangle4880VRayCompleteMap.jpg
+
+newmtl Cylinder001VRayCompleteMap
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka maps\Cylinder001VRayCompleteMap.jpg
+	map_Kd maps\Cylinder001VRayCompleteMap.jpg
+
+newmtl ChamferBox010VRayCompleteMap
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka maps\ChamferBox010VRayCompleteMap.jpg
+	map_Kd maps\ChamferBox010VRayCompleteMap.jpg
+
+newmtl 06___Default
+	Ns 10.000000
+	Ni 1.500000
+	d 0.500000
+	Tr 0.500000
+	Tf 0.500000 0.500000 0.500000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.588000 0.588000 0.588000
+	map_Ka maps\Object165VRayCompleteMap.jpg
+	map_Kd maps\Object165VRayCompleteMap.jpg
+
+newmtl Tube009VRayCompleteMap
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka maps\Tube009VRayCompleteMap.jpg
+	map_Kd maps\Tube009VRayCompleteMap.jpg
+
+newmtl Material__2100438032
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka maps\chairVRayCompleteMap.jpg
+	map_Kd maps\chairVRayCompleteMap.jpg
+
+newmtl convexshapes_models_03_07_036VRayCompleteMap
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka maps\convexshapes_models_03_07_036VRayCompleteMap.jpg
+	map_Kd maps\convexshapes_models_03_07_036VRayCompleteMap.jpg
+
+newmtl 17___Default
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka maps\Cylinder15642VRayCompleteMap.jpg
+	map_Kd maps\Cylinder15642VRayCompleteMap.jpg
+
+newmtl leaf
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka maps\leaf.jpg
+	map_Kd maps\leaf.jpg
